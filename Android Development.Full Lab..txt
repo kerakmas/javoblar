@@ -1,0 +1,20 @@
+1-Lab
+public float average() {
+int sum = (input1 + input2 + input3 + input4 + input5) ;
+int average =  sum/5 ;
+return average;
+}
+////////////////////////////////////////////////////
+2-Lab
+public int sum(int x,int y){
+    return x+y ;
+  }
+  public int subtract(int x,int y){
+    return x-y;
+  }
+  public int multiply(int x,int y){
+    return x*y;
+  }
+  public int divid(int x,int y){
+    return x/y;
+  }
